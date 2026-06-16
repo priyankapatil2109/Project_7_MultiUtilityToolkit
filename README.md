@@ -113,4 +113,3 @@ Enter your choice:
 
 ---
 
-*Project submitted as part of Python Programming Course – PR. 7 Moduler & Packager*
